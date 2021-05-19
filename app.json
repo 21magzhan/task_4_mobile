@@ -1,0 +1,12 @@
+{
+  "name": "ReactNativeHw4",
+  "displayName": "ReactNativeHw4",
+  "expo": {
+    "name": "ReactNativeHw4",
+    "slug": "ReactNativeHw4",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
